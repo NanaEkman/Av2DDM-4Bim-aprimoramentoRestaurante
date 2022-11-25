@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1081358011494",
+    "project_id": "aprimoramentorestaurante-av2",
+    "storage_bucket": "aprimoramentorestaurante-av2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081358011494:android:357051c185ef41880e71a7",
+        "android_client_info": {
+          "package_name": "ddm.nana.av2ddm_4bim_aprimoramentorestaurante"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081358011494-hn9c5gmsurta9onm1onnuou239pm9ujd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqV4fjl7cmvlcO4g30C9xe_N0xVXwYulI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081358011494-hn9c5gmsurta9onm1onnuou239pm9ujd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
